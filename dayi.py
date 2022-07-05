@@ -9,3 +9,5 @@ data = [line for line in data if line.strip()]
 soz = random.choice(data)
 
 print(soz)
+
+# yortumcu
